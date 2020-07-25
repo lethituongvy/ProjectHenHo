@@ -1,0 +1,40 @@
+.dichoi{
+    height: 50px;
+    width: 500px;
+    float: left;
+    margin-left: 10px;
+}
+.dichoi .formm{
+    height: 400px;
+    margin-left: 50px;
+}
+.mySlide{
+    float: left;
+    margin-left: 200px;
+    border: 10px solid seashell;
+}
+.dichoi .formm select{
+    padding: 10px;
+}
+.home {
+    background-color: #FF8000;
+    height:500px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-gap: 10px;
+}
+
+.mySlide .item-slide{
+    height: 400px;
+    /* width: 50%; */
+}
+.mySlide {
+    width:30%
+}
+button a{
+    text-decoration: none;
+    color: black;
+}
